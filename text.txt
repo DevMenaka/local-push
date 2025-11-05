@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "KDUUniConnect",
+    "slug": "KDUUniConnect",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Start.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/Start.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Start.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/Start.png"
+    }
+  }
+}
